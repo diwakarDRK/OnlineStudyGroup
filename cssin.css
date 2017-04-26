@@ -1,0 +1,32 @@
+.container{
+margin:0 auto;
+width:50%;
+}
+form{
+	width:300px;
+	margin:0 auto;
+	
+	padding:40px;
+	
+}
+.nice{
+	width:100%;
+	height:30px;
+	border-radius:3px;
+	margin-top: 10px;
+	margin-bottom: 20px; 
+	box-shadow:0 0 3px 2px #aaa;
+	border-radius: 3px;
+}
+.centered{
+	text-align: center; 
+	width:100%;
+}
+input.centered{
+	padding:12px;
+	
+	color:#FFF;
+	font-weight: bold;
+	margin:0 auto;
+
+}
